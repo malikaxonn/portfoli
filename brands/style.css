@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+main{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgv2p5cP5FDr_MTZPhGKzYHqpJD0oeeiqHYw&usqp=CAU);
+    background-image: url(https://mensflair.com/wp-content/uploads/2023/02/50LuxuryDesignerBrandsMain.jpg);
+    height: 90vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+}
+header{
+    width: 100%;
+    height: 10vh;
+    background-color: bisque;
+}
+.about{
+    width: 100%;
+    height: 100vh;
+    background-color: blanchedalmond;
+    background-position: cover;
+    background-size: cover;
+}
+.about_img{
+    width: 60%;
+    padding: 30px;
+}
+p{
+    display: inline-block;
+    width: 30%;
+    color: black;
+    
+}
+.contact{
+    width: 100%;
+    height: 100vh;
+    background-color: burlywood;
+    background-size: cover;
+}
+img{
+    width: 100%;
+    height: 400px;
+}
+.versace{
+    width: 30%;
+    background-color: brown;
+    padding: 10px;
+    display: inline-block;
+}
+.prada{
+    width: 30%;
+    background-color: brown;
+    padding: 10px;
+    display: inline-block;
+}
+.louis{
+    width: 30%;
+    background-color: brown;
+    padding: 10px;
+    display: inline-block;
+}
+.ferrari{
+    width: 30%;
+    background-color: brown;
+    padding: 10px;
+    display: inline-block;
+}
+.gucci{
+    width: 30%;
+    background-color: brown;
+    padding: 10px;
+    display: inline-block;
+}
+.chanel{
+    width: 30%;
+    background-color: brown;
+    padding: 10px;
+    display: inline-block;
+}
+a{
+    color: azure;
+    border-radius: 10px;
+    text-decoration: none;
+    width:max-content ;
+}
+a:hover{
+    color: rgb(62, 13, 13);
+    background-color: rgb(224, 212, 212);
+    padding: 10px;
+    border-radius: 10px;
+}
+footer{
+    width: 100%;
+    height: 10vh;
+    background-color: blanchedalmond;
+}
